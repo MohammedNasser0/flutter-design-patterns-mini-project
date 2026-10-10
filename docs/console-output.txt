@@ -1,0 +1,12 @@
+PHASE 1 | BUILDER
+User(firstName: Mohammed, lastName: Nasser)
+Optional fields omitted: age=null, phone=null
+PHASE 2 | FACTORY
+you chose to print circle
+you chose to print square
+you chose to print rectangle
+PHASE 3 | SINGLETON
+Both Database instances are identical: true
+PHASE 4 | SOLID PAYMENT SIMULATION
+Cash payment: 125.00 (simulation)
+Credit payment: 250.00 (simulation)
